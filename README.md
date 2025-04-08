@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aaryansingh20
 - 👀 I’m interested in Web dev
-- 🌱 I’m currently learning Next js
+- 🌱 I’m currently learning Gen AI
 - 💞️ I’m looking to collaborate on projects,internship,hackthon
 - 📫 How to reach me singhaaryan@gmail.com
 - 😄 Pronouns: He/Him
