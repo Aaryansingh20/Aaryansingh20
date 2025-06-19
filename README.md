@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aaryansingh20
+- 👋 Hi, I’m Aaryan singh
 - 👀 I’m interested in AI engineering
 - 🌱 I’m currently learning AI Engineering
 - 💞️ I’m looking to collaborate on projects,internship,hackthon
