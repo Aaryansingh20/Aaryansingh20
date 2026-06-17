@@ -1,13 +1,17 @@
 <!-- ============================================================ -->
-<!--   TOP — click to play music video on YouTube                 -->
-<!--   (GitHub can't embed/autoplay video; this opens YouTube)    -->
+<!--   TOP HEADER                                                 -->
+<!--   1) Silent lofi GIF banner  -> drop at ./assets/banner.gif  -->
+<!--   2) "Play the vibe" button  -> opens the music on YouTube   -->
 <!-- ============================================================ -->
 <p align="center">
+  <img width="100%" style="border-radius:14px;" src="./assets/banner.gif" alt="lofi banner" />
+</p>
+
+<p align="center">
   <a href="https://youtu.be/aNnKsUwVgF4">
-    <img width="100%" style="border-radius:14px;" src="https://img.youtube.com/vi/aNnKsUwVgF4/maxresdefault.jpg" alt="▶ Play the vibe — opens on YouTube" />
+    <img src="https://img.shields.io/badge/▶%20Play%20the%20vibe-FF1B6B?style=for-the-badge&logo=youtube&logoColor=white" alt="play the vibe on YouTube" />
   </a>
 </p>
-<p align="center"><sub>▶ click to play the vibe on YouTube 🎧</sub></p>
 
 <!-- ====== TYPING HEADLINE ====== -->
 <p align="center">
