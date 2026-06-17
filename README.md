@@ -80,15 +80,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryansingh20&hide_border=true&background=0D1117&ring=FF1B6B&fire=FF1B6B&currStreakLabel=00B4D8&sideLabels=C9D1D9&dates=8B949E&stroke=00B4D8" />
+  <img src="https://streak-stats.demolab.com/?user=Aaryansingh20&hide_border=true&background=0D1117&ring=FF1B6B&fire=FF1B6B&currStreakLabel=00B4D8&sideLabels=C9D1D9&dates=8B949E&stroke=00B4D8" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aaryansingh20&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aaryansingh20/Aaryansingh20/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 <br/>
@@ -133,12 +129,13 @@
 <br/>
 
 <!-- ============================================================ -->
-<!--   BOTTOM — outro video link only (opens on YouTube)          -->
+<!--   BOTTOM — outro video (clickable thumbnail, opens YouTube)  -->
 <!-- ============================================================ -->
 <p align="center">
   <a href="https://youtu.be/2eOg5DoYuwU">
-    <img src="https://img.shields.io/badge/▶%20Outro%20vibe-00B4D8?style=for-the-badge&logo=youtube&logoColor=white" alt="outro vibe on YouTube" />
+    <img width="60%" style="border-radius:14px;" src="https://img.youtube.com/vi/2eOg5DoYuwU/hqdefault.jpg" alt="outro vibe — click to watch on YouTube" />
   </a>
 </p>
+<p align="center"><sub>▶ outro vibe — click to watch on YouTube</sub></p>
 
 <p align="center"><i>Let's build something intelligent together. 🚀</i></p>
