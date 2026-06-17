@@ -74,17 +74,22 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
+<!-- Stats card + anime GIF side by side. -->
+<!-- Drop your looping anime GIF at ./assets/anime.gif -->
+<table align="center">
+  <tr>
+    <td valign="middle">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aaryansingh20&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF1B6B&icon_color=00B4D8&text_color=C9D1D9" />
+    </td>
+    <td valign="middle">
+      <img height="170em" style="border-radius:12px;" src="./assets/anime.gif" alt="anime" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aaryansingh20&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF1B6B&icon_color=00B4D8&text_color=C9D1D9" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryansingh20&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FF1B6B&text_color=C9D1D9" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aaryansingh20&hide_border=true&background=0D1117&ring=FF1B6B&fire=FF1B6B&currStreakLabel=00B4D8&sideLabels=C9D1D9&dates=8B949E&stroke=00B4D8" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aaryansingh20&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img src="https://streak-stats.demolab.com/?user=Aaryansingh20&hide_border=true&background=0D1117&ring=FF1B6B&fire=FF1B6B&currStreakLabel=00B4D8&sideLabels=C9D1D9&dates=8B949E&stroke=00B4D8" height="170em" />
 </p>
 
 <br/>
@@ -117,14 +122,6 @@
 <p align="center"><i>+ Published research: a Gen-AI chatbot built on LLaMa for SSR documents (IJSREM, Vol. 09).</i></p>
 
 <p align="center"><b><a href="https://github.com/Aaryansingh20?tab=repositories">→ See all repositories</a></b></p>
-
-<br/>
-
-<h2 align="center">💭 Dev Quote of the Load</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
-</p>
 
 <br/>
 
