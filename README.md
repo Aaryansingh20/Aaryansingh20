@@ -32,6 +32,7 @@
 - 🚀 &nbsp;Full-Stack **AI Engineer** — I build things that combine clean UIs with real intelligence.
 - 🧠 &nbsp;I work across **RAG, LLMs, and applied ML** — LangChain, FAISS, Gemini, LLaMa.
 - 🎓 &nbsp;**B.E. in Artificial Intelligence & Machine Learning**, Mumbai University.
+- 🎓 &nbsp;**Master's in Computer science**, Techincal university of Dresden.
 - 📝 &nbsp;Published research on a **Gen-AI chatbot built on LLaMa** (IJSREM, Vol. 09).
 - 🌍 &nbsp;Based in **Mumbai, India** — open to building, collaborating, and shipping.
 - ⚡ &nbsp;Ask me about **RAG pipelines, LLM apps, full-stack web, and systems work in Rust & Go.**
