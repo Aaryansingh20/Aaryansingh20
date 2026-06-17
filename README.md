@@ -133,14 +133,12 @@
 <br/>
 
 <!-- ============================================================ -->
-<!--   BOTTOM — click to play second video on YouTube (no audio   -->
-<!--   plays on the profile itself; opens YouTube on click)       -->
+<!--   BOTTOM — outro video link only (opens on YouTube)          -->
 <!-- ============================================================ -->
 <p align="center">
   <a href="https://youtu.be/2eOg5DoYuwU">
-    <img width="100%" style="border-radius:14px;" src="https://img.youtube.com/vi/2eOg5DoYuwU/maxresdefault.jpg" alt="▶ Outro vibe — opens on YouTube" />
+    <img src="https://img.shields.io/badge/▶%20Outro%20vibe-00B4D8?style=for-the-badge&logo=youtube&logoColor=white" alt="outro vibe on YouTube" />
   </a>
 </p>
-<p align="center"><sub>▶ outro vibe — click to watch on YouTube</sub></p>
 
 <p align="center"><i>Let's build something intelligent together. 🚀</i></p>
