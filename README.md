@@ -1,24 +1,24 @@
-<!-- ====== ANIMATED HEADER WAVE ====== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Aaryan%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Engineer&descSize=22&descAlignY=60" />
-
-<!-- ====== ANIMATED TYPING SUBTITLE ====== -->
+<!-- ============================================================ -->
+<!--   ANIMATED LOFI BANNER                                       -->
+<!--   Option A (default below): random anime/lofi GIF via API.   -->
+<!--   Option B: your own GIF — see notes at bottom of this file. -->
+<!-- ============================================================ -->
 <p align="center">
-  <a href="https://github.com/Aaryansingh20">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+that+thinks+%F0%9F%A7%A0;Full-stack+engineering+%E2%9A%A1;RAG+%2B+LLMs+%2B+clean+code;Shipping+ideas+into+reality+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img height="240" width="100%" style="object-fit:cover;border-radius:12px;" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="lofi banner" />
 </p>
 
-<p align="center">A Python-slinging, AI-engineering, RAG-loving builder on a mission to make machines understand humans. 🌐</p>
+<!-- ====== TYPING HEADLINE ====== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Aaryan+Singh+here+%F0%9F%94%A5;Full-Stack+AI+Engineer;Building+AI+that+thinks+%F0%9F%A7%A0" alt="Typing SVG" />
+</p>
 
-<!-- ====== PROFILE VIEWS + FOLLOWERS BADGES ====== -->
+<p align="center"><i>Namaste 🙏 — Python-slinging, AI-engineering, RAG-loving builder on a mission to make machines understand humans. 🌐</i></p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aaryansingh20&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="views" />
   <img src="https://img.shields.io/github/followers/Aaryansingh20?label=Followers&style=for-the-badge&color=58A6FF" alt="followers" />
 </p>
 
-<br/>
-
-<!-- ====== ANIMATED SECTION DIVIDER ====== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" />
 
 ## 🎧 My Vibe Statement
@@ -60,12 +60,11 @@ From wiring up RAG pipelines with dynamic chunking to building 3D virtual try-on
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryansingh20&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- ====== ANIMATED TROPHIES ====== -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aaryansingh20&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
 
-<!-- ====== CONTRIBUTION SNAKE ANIMATION ====== -->
+<!-- ====== CONTRIBUTION SNAKE (needs the GitHub Action — see notes) ====== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aaryansingh20/Aaryansingh20/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
@@ -82,6 +81,14 @@ From wiring up RAG pipelines with dynamic chunking to building 3D virtual try-on
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" />
 
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" />
+
 ## 🎯 My Mission & Endgame
 
 - 🔥 **Grinding Now:** Going deeper into agentic AI and production-grade RAG systems.
@@ -90,7 +97,7 @@ From wiring up RAG pipelines with dynamic chunking to building 3D virtual try-on
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" />
 
-## 🤝 Let's Team Up!
+## ☀️ Follow Me On / Let's Team Up!
 
 <p align="center">Ready to build something intelligent together? Hit me up! 🚀</p>
 
@@ -98,6 +105,13 @@ From wiring up RAG pipelines with dynamic chunking to building 3D virtual try-on
   <a href="https://www.linkedin.com/in/aaryan-singh-b2ab4628a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://aaryansingh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:singhaaryan348@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<!-- ====== BUY ME A COFFEE (optional — set up an account first) ====== -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
 </p>
 
 <!-- ====== ANIMATED FOOTER WAVE ====== -->
